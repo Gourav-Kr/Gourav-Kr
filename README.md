@@ -1,4 +1,4 @@
-### Hi there, I'm Gourav Kumar - aka [GorillaK] 👋🙃
+### Hi there, I'm Gourav Kumar 👋🙃
 [![Gmail Badge](https://img.shields.io/badge/-gouravcoc667@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:gouravcoc667@gmail.com)
 ---
 ## I'm an Undergraduate Student, majoring in Computer Science and Engineering from IIT(BHU) Varanasi. 
