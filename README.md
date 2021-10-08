@@ -13,7 +13,7 @@
 
 [<img align="left" alt="sahilsingh2402 | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Gourav_in_lko)
 [<img align="left" alt="sahilsingh2402 | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BfjJab5P8TuScFfpTKKLuRw%3D%3D)
-[<img align="left" alt="sahilsingh2402 | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/itz_gk_gourav?r=nametag)
+[<i class="fab fa-instagram-square"></i>](https://www.instagram.com/itz_gk_gourav?r=nametag)
 
 <br />
 
