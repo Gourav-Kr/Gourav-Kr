@@ -1,6 +1,9 @@
 ### Hi there, I'm Gourav Kumar 👋🙃
+<br>
+
 [![Gmail Badge](https://img.shields.io/badge/-gouravcoc667@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:gouravcoc667@gmail.com)
 ---
+
 ## I'm an Undergraduate Student, majoring in Computer Science and Engineering from IIT(BHU) Varanasi. 
 
 - 🌱  Keen on learning interesting things in computer science, astronomy etc. .
@@ -8,16 +11,20 @@
 - 📸  Stuffs like photography, cinematography, editing, Illustrations fascinates me.
 - ⚡  Just Introspect and Retrospect whenever you feel necessary .
 - 🎶  Love Music :).
-
+<br>
+<br>
 ### Connect with me:
+
+<br>
 
 [<img align="left" alt="gk | Twitter" width="26px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/twitter.png" />](https://twitter.com/Gourav_in_lko)
 [<img align="left" alt="gk | LinkedIn" width="26px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/linkedin.png" />](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BfjJab5P8TuScFfpTKKLuRw%3D%3D)
 [<img align="left" alt="GK | Instagram" width="26px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/instagram.png" />](https://www.instagram.com/itz_gk_gourav?r=nametag)
 
-<br />
+<br><br>
 
 ### Languages and Tools: 
+<br>
 
 [<img align="left" alt="JAVA" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />](https://www.java.com/)
 
@@ -51,7 +58,15 @@
 
 [<img align="left" alt="NUMPY" width="60px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://numpy.org/)
 
-<br />
+<br><br>
+
+
+<br>
+<h2 align="center"> Stats 😅</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gourav-Kr&count_private=true&theme=chartreuse-dark&show_icons=true&line_height=30px)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gourav-Kr&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-Kr&layout=compact&theme=chartreuse-dark&show_icons=true&line_height=40px&card_width=445px)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Contact Me 
