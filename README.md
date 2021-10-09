@@ -1,9 +1,10 @@
 ### Hi there, I'm Gourav Kumar 👋🙃
 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/-gouravcoc667@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:gouravcoc667@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gouravcoc667@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gouravcoc667@gmail.com)](mailto:gouravcoc667@gmail.com)
 ---
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Gourav-Kr&left_color=e63946&right_color=green)
+---
 ## I'm an Undergraduate Student, majoring in Computer Science and Engineering from IIT(BHU) Varanasi. 
 
 - 🌱  Keen on learning interesting things in computer science, astronomy etc. .
@@ -62,7 +63,7 @@
 
 
 <br>
-<h2 align="center"> Stats 😅</h2>
+<h2 align=""> Stats 😅</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gourav-Kr&count_private=true&theme=chartreuse-dark&show_icons=true&line_height=30px)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gourav-Kr&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
 <br>
