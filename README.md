@@ -13,7 +13,9 @@
 - ⚡  Just Introspect and Retrospect whenever you feel necessary .
 - 🎶  Love Music :).
 <br>
-<br>
+
+---
+
 ### Connect with me:
 
 <br>
@@ -23,7 +25,7 @@
 [<img align="left" alt="GK | Instagram" width="26px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/instagram.png" />](https://www.instagram.com/itz_gk_gourav?r=nametag)
 
 <br><br>
-
+---
 ### Languages and Tools: 
 <br>
 
@@ -61,6 +63,7 @@
 
 <br><br>
 
+---
 
 <br>
 <h2 align=""> Stats 😅</h2>
