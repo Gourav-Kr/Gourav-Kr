@@ -22,7 +22,7 @@
 
 ## Languages and Tools 🧰  <img align="left" alt="Git" width="60px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/hello%20pika.gif" /> 
 
-<br>
+<br><br>
 
 [<img align="left" alt="Git" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/)
 
