@@ -83,7 +83,7 @@
 <br>
 
 <p align="center">
-  <img aligh="center" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/giphy.webp" width="500px">
+  <img aligh="center" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/giphy.webp" width="400px">
 </p>
 
 
