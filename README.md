@@ -24,29 +24,29 @@
 
 <br><br>
 
-[<img align="left" alt="Git" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/)
+[<img align="left" alt="Git" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/)
 
-[<img align="left" alt="PYTHON" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
+[<img align="left" alt="PYTHON" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
 
-[<img align="left" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />](https://html.com/)
+[<img align="left" alt="HTML" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />](https://html.com/)
 
-[<img align="left" alt="C" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
+[<img align="left" alt="C" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
 
-[<img align="left" alt="CPP" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://www.cplusplus.com/)
+[<img align="left" alt="CPP" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://www.cplusplus.com/)
 
-[<img align="left" alt="Django" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" />](https://www.djangoproject.com/)
+[<img align="left" alt="Django" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" />](https://www.djangoproject.com/)
 
-[<img align="left" alt="Anaconda" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/anaconda.png" />](https://www.anaconda.com/)
+[<img align="left" alt="Anaconda" width="40px" src="Img/PngItem_2413401.png" />](https://www.anaconda.com/)
 
-[<img align="left" alt="Spyder" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/spyder.png" />](https://www.spyder-ide.org/)
+[<img align="left" alt="Spyder" width="45px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/spyder.png" />](https://www.spyder-ide.org/)
 
-[<img align="left" alt="MYSQL" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://www.mysql.com/)
+[<img align="left" alt="MYSQL" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://www.mysql.com/)
 
-[<img align="left" alt="UBUNTU" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/ubuntu.svg" />](https://ubuntu.com/)
+[<img align="left" alt="UBUNTU" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/ubuntu.svg" />](https://ubuntu.com/)
 
-[<img align="left" alt="PYCHARM" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="PYCHARM" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
 
-[<img align="left" alt="NUMPY" width="60px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://numpy.org/)
+[<img align="left" alt="Photoshop" width="40px" src="Img/ps.png" />](https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjwzaSLBhBJEiwAJSRoko8EzRE7u3uFEuAM7wVp9HO3rXznpJLDyg1hMlIcIb-e2OirJbM7KxoCVPoQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836691!e!!g!!photoshop!221441588!17534749028&gclid=CjwKCAjwzaSLBhBJEiwAJSRoko8EzRE7u3uFEuAM7wVp9HO3rXznpJLDyg1hMlIcIb-e2OirJbM7KxoCVPoQAvD_BwE)
 
 <br>
 <br>
