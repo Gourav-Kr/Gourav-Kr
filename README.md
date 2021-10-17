@@ -48,7 +48,11 @@
 
 [<img align="left" alt="PYCHARM" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
 
-[<img align="left" alt="Photoshop" width="40px" src="Img/ps.png" />](https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjwzaSLBhBJEiwAJSRoko8EzRE7u3uFEuAM7wVp9HO3rXznpJLDyg1hMlIcIb-e2OirJbM7KxoCVPoQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836691!e!!g!!photoshop!221441588!17534749028&gclid=CjwKCAjwzaSLBhBJEiwAJSRoko8EzRE7u3uFEuAM7wVp9HO3rXznpJLDyg1hMlIcIb-e2OirJbM7KxoCVPoQAvD_BwE)
+[<img align="left" alt="Photoshop" width="38px" src="Img/ps.png" />](https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjwzaSLBhBJEiwAJSRoko8EzRE7u3uFEuAM7wVp9HO3rXznpJLDyg1hMlIcIb-e2OirJbM7KxoCVPoQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836691!e!!g!!photoshop!221441588!17534749028&gclid=CjwKCAjwzaSLBhBJEiwAJSRoko8EzRE7u3uFEuAM7wVp9HO3rXznpJLDyg1hMlIcIb-e2OirJbM7KxoCVPoQAvD_BwE)
+
+[<img align="left" alt="PYCHARM" width="38px" src="Img/PngItem_4466212.png" />](https://www.adobe.com/in/products/premiere.html?sdid=STLMM87Z&mv=search&ef_id=CjwKCAjwk6-LBhBZEiwAOUUDpwj1_qXBMpdUHf0qQcu2HRqggh32TUL1WtzS3e9uK_51DQgJ2CpqrRoC6osQAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824150!e!!g!!premiere%20pro!221167988!17525565668&gclid=CjwKCAjwk6-LBhBZEiwAOUUDpwj1_qXBMpdUHf0qQcu2HRqggh32TUL1WtzS3e9uK_51DQgJ2CpqrRoC6osQAvD_BwE)
+
+
 
 <br>
 <br>
