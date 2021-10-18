@@ -1,7 +1,7 @@
 # Hi there, I'm Gourav Kumar 👋🙃 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gourav-Kr&left_color=e63946&right_color=green) 
 <br>
 <p align="center">
-  <img aligh="center" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/giphy%20(1).gif" width="400px">
+  <img aligh="center" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/giphy%20(1).gif" width="450px">
 </p>
 
 ---
