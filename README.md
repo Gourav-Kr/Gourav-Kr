@@ -12,7 +12,6 @@
 - 🌱  Keen on learning interesting things in computer science, astronomy etc. .
 - 👯  Intersted in brainstorming ideas and working with people .
 - 📸  Stuffs like photography, cinematography, editing, Illustrations fascinates me.
-- ⚡  Just Introspect and Retrospect whenever you feel necessary .
 - 🎶  Love Music :).
 <br>
 
