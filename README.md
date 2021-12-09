@@ -65,7 +65,7 @@
 
 ![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gourav-Kr&count_private=true&theme=chartreuse-dark&show_icons=true&line_height=30px)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gourav-Kr&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-Kr&layout=compact&theme=chartreuse-dark&show_icons=true&line_height=40px&card_width=445px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-Kr&layout=compact&theme=chartreuse-dark&langs_count=7&show_icons=true&line_height=40px&card_width=445px)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
